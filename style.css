@@ -1,0 +1,23 @@
+body{
+margin: 0; 
+padding: 0;
+background: aliceblue;
+}
+.container{
+    margin: 0 auto;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: rgb(15, 248, 233);
+}
+.text{
+    color: rgb(100, 100, 135);
+    font-size: 20px;
+}
+.color{
+    color: rgb(100, 100, 135);
+    font-size: 20px;
+}
